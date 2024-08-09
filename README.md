@@ -17,7 +17,7 @@ Just Copy these links to your client to use :
 
 - Subscription 1:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/TecnoDeVolper2008/ultra-subcription/main/Dialog.txt
 ```
 
 - Subscription 2: 
